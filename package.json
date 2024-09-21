@@ -22,5 +22,15 @@
   "bugs": {
     "url": "https://github.com/era-epoch/animautomata-react/issues"
   },
-  "homepage": "https://github.com/era-epoch/animautomata-react#readme"
+  "dependencies": {
+    "animautomata": "^1.0.0"
+  },
+  "peerDependencies": {
+    "react": "^18.2.0"
+  },
+  "homepage": "https://github.com/era-epoch/animautomata-react#readme",
+  "devDependencies": {
+    "@types/react": "^18.3.8",
+    "react": "^18.3.1"
+  }
 }
