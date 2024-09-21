@@ -1,0 +1,26 @@
+{
+  "name": "animautomata-react",
+  "version": "1.0.0",
+  "description": "react components for the animautomata library",
+  "main": "index.js",
+  "scripts": {
+    "test": "npm test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/era-epoch/animautomata-react.git"
+  },
+  "keywords": [
+    "animation",
+    "react",
+    "components",
+    "loading",
+    "animation"
+  ],
+  "author": "eraepoch",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/era-epoch/animautomata-react/issues"
+  },
+  "homepage": "https://github.com/era-epoch/animautomata-react#readme"
+}
